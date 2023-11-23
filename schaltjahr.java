@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class schaltjahr {
 
 
-    public static void main(String[] var0) {
+    public static void main(String[] args) {
         Scanner var1 = new Scanner(System.in);
         System.out.println("Bitte geben Sie eine Jahreszahl ein:");
         int var2 = var1.nextInt();
